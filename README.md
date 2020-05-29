@@ -11,6 +11,6 @@ This repository contains two files:
 
     PS:There are interactive and dynamic plotly charts in the files(not visible in the viewer on git.)
 
-    Please download and run the same on your jupyter notebook to view the same.
+    Please download and run the same on your jupyter notebook to view the same.You can also visit the kaggle websiste links mentioned to view the charts.
 
 My Kaggle username is "sidagar" without quotes.
