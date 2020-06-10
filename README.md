@@ -12,8 +12,15 @@ This repository contains three files:
   3. In this notebok I have implemented a Neural network. (Score obtained was 0.954).
      You can visit "https://www.kaggle.com/sidagar/digit-recognizer-using-simple-neural-network" to view the notebook.
     
-    PS:There are interactive and dynamic plotly charts in the files(not visible in the viewer on git.)
-
-    Please download and run the same on your jupyter notebook to view the same.You can also visit the kaggle websiste links mentioned to view the charts.
+    PS:There are interactive and dynamic plotly charts in these files which are not rendered on the github viewer and 
+    therefore I have uploaded the whole notebook in HTML format separately for reference which comes with all the graphs.
+    If you only want to see the notebook you can download and view the HTML version or visit the kaggle link to view it.
+    
+    If you however wish to run the code on your own, you can either:
+    
+    1. Download the ipynb format of the notebook along with the train and test sets and set the path of train test inside 
+       the notebook and run it on your computer. Before running please make sure to install all the relevant libraries.
+    
+    2. Visit kaggle links provided and fork the pinned version of the notebook and then run the notebook.
 
 My Kaggle username is "sidagar" without quotes.
