@@ -9,7 +9,7 @@ In this machine learning project our dataset which has been derived from the fam
   2. In this notebook I have implemented a KNN model over PCA.(Score obtained was 0.968). 
      You can visit "https://www.kaggle.com/sidagar/digit-recogniser-using-pca-and-knn" to view the notebook.
   
-  3. In this notebok I have implemented a Neural network. (Score obtained was 0.975).
+  3. In this notebok I have implemented a Simple Neural network. (Score obtained was 0.975).
      You can visit "https://www.kaggle.com/sidagar/digit-recognizer-using-simple-neural-network" to view the notebook.
      
   4. In this notebok I have implemented a Convoluted Neural network. (Score obtained was 0.995).
