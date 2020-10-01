@@ -1,5 +1,5 @@
 # kaggle-digit-recogniser
-In this machine learning project our dataset which has been derived from the famous MNIST dataset consists of 784 data fields which contain pixel values from 0-255 inclusive and a target field "label".Thus in our data set, each image is a handwritten digit converted to greyscale image which is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total given as pixel values from 0-783. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. The taget field contains the digit in the handwritten image.
+In this machine learning project our dataset which has been derived from the famous MNIST dataset consists of 784 data fields which contain pixel values from 0-255 inclusive and a target field "label".Thus in our data set, each image is a handwritten digit converted to greyscale image which is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total given as pixel values from 0-783. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. The taget field contains the digit in the handwritten images.
 
 ## This repository contains 4 folders: 
 
